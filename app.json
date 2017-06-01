@@ -1,0 +1,7 @@
+{
+  "name": "Tour Of Heroes Angular2",
+  "description": "The Tour Of Heroes Angular Tutorial app written in TypeScript",
+  "repository": "https://github.com/jvarness/angular-hello",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static", "angular"]
+}
